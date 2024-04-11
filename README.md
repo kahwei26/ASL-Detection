@@ -12,6 +12,3 @@
 ### Sample Output
 ![Sample Output](https://github.com/kahwei26/ASL-Detection/assets/93248505/2ef322ff-2f1a-4cfd-bf9c-d74125cc4e83)
 
-### Limitation
-- The accuracy of the ASL detection system can be further enhanced by increasing the size of the dataset fed into the model.
-
